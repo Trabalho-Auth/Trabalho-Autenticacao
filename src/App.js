@@ -6,16 +6,20 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+
+        <h1>Deploy funcionando! 🔥</h1>
+
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Agora qualquer mudança aqui deve aparecer automaticamente no GitHub Pages.
         </p>
+
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://react.dev/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          React Docs
         </a>
       </header>
     </div>
