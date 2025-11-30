@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 
-        <h1>Deploy funcionando!</h1>
+        <h1>Deploy funcionando! É fogo</h1>
 
         <p>
           Agora qualquer mudança aqui deve aparecer automaticamente no GitHub Pages.
